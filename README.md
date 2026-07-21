@@ -52,3 +52,10 @@ I enjoy collaborating with teams, participating in technical events, and continu
   <img src="https://skillicons.dev/icons?i=linux,windows" />
 </p>
 
+<p align="left">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
+...
+</p>]
