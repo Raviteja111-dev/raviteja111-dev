@@ -8,4 +8,4 @@ Currently, I'm deepening my expertise in **Data Structures & Algorithms, System 
 
 I enjoy collaborating with teams, participating in technical events, and continuously learning new technologies that help me grow as an engineer. My goal is to contribute to impactful products while evolving into a software engineer capable of solving complex engineering problems at scale.
 
-> **"Code with purpose. Learn continuously. Build solutions that make a difference."** 🚀
+> **"Code with purpose. Learn continuously. Build solutions that make a difference."** 
