@@ -10,29 +10,29 @@ I enjoy collaborating with teams, participating in technical events, and continu
 
 > **"Code with purpose. Learn continuously. Build solutions that make a difference."**
 >
-> ## 🛠️ Tech Stack & Skills
+> ##  Tech Stack & Skills
 
-### 💻 Programming Languages
+###  Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql" />
 </p>
 
-### 🎨 Frontend Development
+###  Frontend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-### ⚙️ Backend Development
+###  Backend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 </p>
 
-### 🗄️ Databases & Backend Services
+###  Databases & Backend Services
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
 </p>
 
-### 🤖 AI & Machine Learning
+###  AI & Machine Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
@@ -45,28 +45,18 @@ I enjoy collaborating with teams, participating in technical events, and continu
 🔹 Generative AI
 </p>
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=azure,aws,docker" />
 </p>
 
-### 🛠️ Tools & IDEs
+###  Tools & IDEs
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 </p>
 
-### 💻 Operating Systems
+###  Operating Systems
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,windows" />
 </p>
 
-### 📚 Computer Science Fundamentals
-
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- DBMS
-- Operating Systems
-- Computer Networks
-- Software Debugging
-- Software Troubleshooting
-- REST APIs
