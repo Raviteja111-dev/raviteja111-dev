@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+##  About Me
 
 Hi, I'm **Raviteja**, a Computer Science Engineering student and aspiring **Software Development Engineer (SDE)** with a passion for building scalable, high-performance applications and solving real-world challenges through technology.
 
