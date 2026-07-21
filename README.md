@@ -37,14 +37,6 @@ I enjoy collaborating with teams, participating in technical events, and continu
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-<p>
-🔹 Google Gemini API<br>
-🔹 LangChain<br>
-🔹 Prompt Engineering<br>
-🔹 RAG Applications<br>
-🔹 Generative AI
-</p>
-
 ###  Cloud & DevOps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=azure,aws,docker" />
